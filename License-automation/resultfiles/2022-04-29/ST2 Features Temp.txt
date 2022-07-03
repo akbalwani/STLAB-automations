@@ -1,0 +1,48 @@
+Axway Evaluation LicenseCopy and paste the following text into "Update Server 
+License" field under "Setup -> Server License Menu" 
+first=Axway
+last=Axway
+company=Axway
+phone=000-000-000
+email=fulfillment@axway.com
+commonexpiry=60
+
+License details follow:
+License is an evaluation license.
+License Version is 1
+License Serial Number is 71EC4DC0C72311EC9A7297D62C63B052
+SecureTransport IP Address 1.1.1.1/0 G.M.T Mon Jun 27 18:45:59 2022
+SecureTransport AS2Partnerships Unlimited G.M.T Mon Jun 27 18:45:59 2022
+SecureTransport SshEnabled 1 G.M.T Mon Jun 27 18:45:59 2022
+SecureTransport SiteminderEnabled 1 G.M.T Mon Jun 27 18:45:59 2022
+SecureTransport ConnectDirectEnabled 1 G.M.T Mon Jun 27 18:45:59 2022
+SecureTransport PesitEnabled 1 G.M.T Mon Jun 27 18:45:59 2022
+Enterprise clustering features:
+SecureTransport MaxClusterNodes 20 G.M.T Mon Jun 27 18:45:59 2022
+SecureTransport ExternalDatabaseType Oracle G.M.T Mon Jun 27 18:45:59 2022
+
+-----BEGIN VALICERT LICENSE-----
+MIAGCSqGSIb3DQEHAqCAMIIEGgIBATELMAkGBSsOAwIaBQAwgAYJKoZIhvcNAQcB
+oIAEggIFMIICAQIBAQQgNzFFQzREQzBDNzIzMTFFQzlBNzI5N0Q2MkM2M0IwNTIB
+AQAwggHVMDkWD1NlY3VyZVRyYW5zcG9ydAQKSVAgQWRkcmVzcwQJMS4xLjEuMS8w
+GA8yMDIyMDYyNzE4NDU1OVowPhYPU2VjdXJlVHJhbnNwb3J0BA9BUzJQYXJ0bmVy
+c2hpcHMECVVubGltaXRlZBgPMjAyMjA2MjcxODQ1NTlaMDEWD1NlY3VyZVRyYW5z
+cG9ydAQKU3NoRW5hYmxlZAQBMRgPMjAyMjA2MjcxODQ1NTlaMDgWD1NlY3VyZVRy
+YW5zcG9ydAQRU2l0ZW1pbmRlckVuYWJsZWQEATEYDzIwMjIwNjI3MTg0NTU5WjA7
+Fg9TZWN1cmVUcmFuc3BvcnQEFENvbm5lY3REaXJlY3RFbmFibGVkBAExGA8yMDIy
+MDYyNzE4NDU1OVowMxYPU2VjdXJlVHJhbnNwb3J0BAxQZXNpdEVuYWJsZWQEATEY
+DzIwMjIwNjI3MTg0NTU5WjA3Fg9TZWN1cmVUcmFuc3BvcnQED01heENsdXN0ZXJO
+b2RlcwQCMjAYDzIwMjIwNjI3MTg0NTU5WjBAFg9TZWN1cmVUcmFuc3BvcnQEFEV4
+dGVybmFsRGF0YWJhc2VUeXBlBAZPcmFjbGUYDzIwMjIwNjI3MTg0NTU5WgAAAAAx
+ggHqMIIB5gIBATCBwjCBvDEXMBUGA1UEChMOVmFsaUNlcnQsIEluYy4xHjAcBgNV
+BAsTFVNvZnR3YXJlIERpc3RyaWJ1dGlvbjEiMCAGA1UEAxMZRXZhbHVhdGlvbiBM
+aWNlbnNlIElzc3VlcjELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWEx
+FjAUBgNVBAcTDU1vdW50YWluIFZpZXcxIzAhBgkqhkiG9w0BCQEWFHN1cHBvcnRA
+dmFsaWNlcnQuY29tAgEAMAkGBSsOAwIaBQAwDQYJKoZIhvcNAQEBBQAEggEAQ/Sl
+aDkHjbYVJSHCxPQZR5q7eSwNXYbe5eOrWDi9mcfkD4fgiCb7GzAbhu21MtakX1yd
+uuqntnQ539/lE2++sNFn94w7OmR5IPuwqpDHbMOgkI4UgptIXEJ7Xq/pkUMWCNJU
+XpHi6MgG6VcIrdLO3ypXxRFva2DA8aWWP/t7KVLH044w5nduYTeXCgII1sZe7pez
+BQfVnVE/H60XXLLF5vPRA0u2PhLSwsOtHHu0XeJ8IkQkvdt9D34KMNLUOVw1bEBT
+ys2THsKtwGK/Btt1igQ8xyhlRNYhlS7sy4a4TvyFuhV62YRXt8CEoXQ9R32Y9anj
+rNmJGDEEXce7J9fF9gAAAAA=
+-----END VALICERT LICENSE-----

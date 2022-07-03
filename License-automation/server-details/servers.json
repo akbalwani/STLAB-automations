@@ -1,0 +1,48 @@
+{
+   "servers": [
+      {
+         "host": "10.151.57.237",
+         "port": 22,
+         "username": "root",
+         "password": "redhat",
+         "remote_path": "/root/st540/SecureTransport/",
+         "install_type": "mysql"
+      },
+      {
+            "host": "10.151.58.58",
+            "username": "root",
+            "password": "axway123",
+            "port": "22",
+            "remote_path": "/root/AxwayST54/SecureTransport/",
+            "install_type": "mysql",
+            "submitted_by": "ssinghkarki@axway.com"
+        },
+        {
+            "host": "10.151.58.245",
+            "username": "root",
+            "password": "axway123",
+            "port": "22",
+            "remote_path": "/root/AxwayST54/SecureTransport/",
+            "install_type": "mysql",
+            "submitted_by": "ssinghkarki@axway.com"
+        },
+         {
+            "host": "10.151.57.149",
+            "username": "root",
+            "password": "axway123",
+            "port": "22",
+            "remote_path": "/root/Axway/SecureTransport/",
+            "install_type": "mysql",
+            "submitted_by": "ngautam@axway.com"
+        },
+        {
+            "host": "10.151.58.17",
+            "username": "root",
+            "password": "Axway123",
+            "port": "22",
+            "remote_path": "/root/Axway/SecureTransport/",
+            "install_type": "mysql",
+            "submitted_by": "akksharma@axway.com"
+        }
+   ]
+}

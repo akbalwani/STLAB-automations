@@ -1,0 +1,20 @@
+{
+    "servers": [
+        {
+            "host": "10.151.57.237",
+            "port": 22,
+            "username": "root",
+            "password": "redhat",
+            "remote_path": "/opt/",
+            "install_type": "mysql"
+        },
+        {
+            "host": "10.151.58.63",
+            "port": 22,
+            "username": "root",
+            "password": "redhat",
+            "remote_path": "/opt/",
+            "install_type": "oracle"
+        }
+    ]
+}
